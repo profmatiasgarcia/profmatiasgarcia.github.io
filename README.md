@@ -67,4 +67,6 @@
 * [JAVA Clase 8 Ejemplo 7](https://github.com/profmatiasgarcia/JAVA-Clase8Ej7).
 * [JAVA Clase 8 Ejemplo 8](https://github.com/profmatiasgarcia/JAVA-Clase8Ej8).
 * [JAVA Clase 8 Ejemplo 9](https://github.com/profmatiasgarcia/JAVA-Clase8Ej9).
-
+* [JAVA Clase 8 Ejemplo 1](https://github.com/profmatiasgarcia/JAVA-Clase8Ej10).
+* [JAVA Clase 8 Ejemplo 2](https://github.com/profmatiasgarcia/JAVA-Clase8Ej11).
+* [JAVA Clase 8 Ejemplo 3](https://github.com/profmatiasgarcia/JAVA-Clase8Ej12).
